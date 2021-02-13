@@ -1,2 +1,2 @@
 # gitstudy
-repository for git study
+storage for git study
