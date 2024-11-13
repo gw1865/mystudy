@@ -1,2 +1,2 @@
-# gitstudy
-storage for git study
+# my study 
+all of sutudies including git
